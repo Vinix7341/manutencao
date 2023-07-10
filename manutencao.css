@@ -6,7 +6,7 @@ body {
 }
 
 div#interface {
-    width: 870px;
+    width: 800px;
     font-family: sans-serif;
     padding: 10px 10px 0px 10px;
     background-color: rgba(255, 255, 255, 0.6);
@@ -34,6 +34,15 @@ header h3 {
 
 section {
     padding: 5px;
+}
+
+section h2 {
+    font-size: 20pt;
+}
+
+img {
+    width: 55%;
+    height: auto;
 }
 
 footer {
